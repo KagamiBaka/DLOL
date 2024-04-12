@@ -1,0 +1,2005 @@
+wheat, grain
+acquisitions
+acquisitions
+crude oil
+earnings
+acquisitions
+crude oil
+crude oil
+earnings
+shipping
+sorghum, corn, grain
+acquisitions
+earnings
+acquisitions
+wheat, corn, grain
+earnings
+earnings
+acquisitions
+iron and steel
+earnings
+grain,  wheat
+earnings
+acquisitions
+crude oil
+cocoa
+deutsche mark,  money foreign exchange, dollar
+acquisitions
+earnings
+acquisitions
+earnings
+crude oil
+earnings
+acquisitions
+earnings
+barley, corn, grain,  wheat
+shipping
+earnings
+earnings
+fuel
+earnings
+grain, corn
+money foreign exchange
+jobs
+natural gas,  crude oil
+acquisitions
+earnings
+earnings
+coffee
+natural gas,  acquisitions,  crude oil
+dollar,  money foreign exchange
+trade
+earnings
+earnings
+acquisitions
+earnings
+earnings
+earnings
+earnings
+crude oil,  shipping
+earnings
+acquisitions
+rice, grain
+earnings
+money supply
+aluminum
+balance of payments,  gross national product
+acquisitions
+crude oil,  shipping
+jobs
+shipping
+cotton
+earnings
+acquisitions
+earnings
+acquisitions
+earnings
+money supply
+jobs,  gross national product
+trade
+earnings
+fuel
+acquisitions
+earnings
+acquisitions
+acquisitions
+earnings
+platinum, silver
+earnings
+sugar
+money foreign exchange
+natural gas,  acquisitions,  crude oil
+acquisitions
+acquisitions
+earnings
+acquisitions
+trade
+earnings
+interest rates
+orange
+money foreign exchange
+acquisitions
+earnings
+earnings
+earnings
+dollar,  money foreign exchange
+acquisitions
+earnings
+earnings
+crude oil,  shipping
+acquisitions
+trade
+earnings
+gold
+money foreign exchange
+wheat, grain
+trade
+acquisitions
+money foreign exchange
+earnings
+earnings
+earnings
+earnings
+earnings
+acquisitions
+money foreign exchange
+soybean oil,  vegetable oil
+interest rates
+acquisitions
+acquisitions
+earnings
+earnings
+acquisitions
+aluminum
+earnings
+earnings
+earnings
+earnings
+acquisitions
+coffee
+earnings
+acquisitions
+earnings
+acquisitions
+earnings
+potato
+earnings
+earnings
+coffee
+acquisitions
+cocoa
+grain
+acquisitions
+oilseed, corn, grain,  soybean,  wheat
+orange
+acquisitions
+acquisitions
+earnings
+gross national product
+earnings
+crude oil,  interest rates
+money foreign exchange
+acquisitions
+acquisitions
+acquisitions
+rice, trade,  carcass, grain
+earnings
+earnings
+strategic metals
+acquisitions
+petrochemicals
+acquisitions
+barley, grain
+sugar
+acquisitions
+consumer price index
+earnings
+cocoa
+earnings
+acquisitions
+copper
+earnings
+earnings
+earnings
+money foreign exchange,  interest rates
+tea
+crude oil,  shipping
+earnings
+acquisitions
+iron and steel
+earnings
+earnings
+earnings
+acquisitions
+earnings
+sugar
+aluminum
+acquisitions
+acquisitions
+acquisitions
+earnings
+earnings
+grain,  wheat
+trade
+acquisitions
+acquisitions
+carcass,  livestock
+earnings
+earnings
+earnings
+trade,  interest rates,  money foreign exchange
+acquisitions
+industrial production index,  gross national product
+acquisitions
+industrial production index
+earnings
+earnings
+acquisitions
+earnings
+earnings
+silver
+natural gas
+crude oil
+acquisitions
+trade,  balance of payments
+barley,  wheat, grain
+crude oil
+rice, trade,  carcass, grain
+earnings
+grain,  wheat
+money foreign exchange
+earnings
+money foreign exchange,  interest rates
+earnings
+earnings
+grain,  wheat
+earnings
+crude oil
+acquisitions
+crude oil,  natural gas
+acquisitions
+money foreign exchange
+acquisitions
+acquisitions
+grain, corn
+lead
+earnings
+earnings
+earnings
+earnings
+earnings
+earnings
+earnings
+dollar,  money foreign exchange
+housing,  interest rates
+acquisitions
+earnings
+wheat, corn, grain,  soybean,  wheat
+acquisitions
+earnings
+earnings
+soybean meal,  meal feed,  oilseed,  soybean
+grain,  barley
+earnings
+crude oil,  natural gas
+acquisitions
+interest rates
+earnings
+interest rates
+acquisitions
+shipping
+dollar,  money foreign exchange
+acquisitions
+earnings
+earnings
+earnings
+acquisitions
+interest rates
+grain,  wheat
+earnings
+interest rates
+earnings
+crude oil
+crude oil
+earnings
+acquisitions
+earnings
+earnings
+earnings
+earnings
+industrial production index, trade,  balance of payments,  money foreign exchange
+acquisitions
+acquisitions
+earnings
+earnings
+acquisitions
+copper
+earnings
+earnings
+iron and steel
+earnings
+acquisitions
+earnings
+earnings
+soybean oil,  soybean,  palm oil,  vegetable oil
+tin
+earnings
+earnings
+money supply
+trade
+acquisitions
+earnings
+earnings
+earnings
+earnings
+acquisitions
+crude oil
+earnings
+acquisitions
+trade,  money foreign exchange
+money foreign exchange
+natural gas,  crude oil
+gold
+shipping
+earnings
+trade,  balance of payments
+crude oil
+earnings
+crude oil
+acquisitions
+acquisitions
+earnings
+iron and steel
+acquisitions
+earnings
+crude oil,  shipping
+earnings
+earnings
+earnings
+acquisitions
+crude oil
+earnings
+earnings
+acquisitions
+earnings
+earnings
+earnings
+acquisitions
+acquisitions
+gross national product
+earnings
+earnings
+earnings
+new zealand dollar,  money foreign exchange
+acquisitions
+earnings,  acquisitions
+acquisitions
+grain,  wheat
+acquisitions
+earnings
+acquisitions
+earnings
+aluminum
+consumer price index
+interest rates
+money foreign exchange
+money foreign exchange
+shipping,  livestock
+earnings
+earnings
+trade
+industrial production index, grain
+earnings
+oilseed,  soybean
+trade,  reserves
+earnings
+acquisitions
+acquisitions
+earnings
+earnings
+earnings
+rice, corn, grain,  oilseed
+acquisitions
+gross national product
+earnings
+consumer price index
+earnings
+earnings
+earnings
+earnings
+platinum
+earnings
+zinc,  acquisitions
+crude oil,  shipping
+acquisitions
+earnings
+cotton
+acquisitions
+money foreign exchange
+industrial production index
+trade
+acquisitions
+money foreign exchange
+acquisitions
+consumer price index
+crude oil
+acquisitions
+rapeseed oil,  soybean oil,  vegetable oil
+earnings
+crude oil
+acquisitions
+carcass,  wheat, grain
+orange
+acquisitions
+acquisitions
+coffee
+acquisitions
+acquisitions
+acquisitions
+crude oil
+natural gas,  crude oil
+earnings
+earnings
+earnings
+dollar,  money foreign exchange
+acquisitions
+trade
+reserves
+acquisitions
+trade,  crude oil
+earnings
+earnings
+earnings
+wholesale price index
+earnings
+wheat, grain
+earnings
+rice,  wheat, grain
+money foreign exchange
+earnings
+jobs
+earnings
+earnings
+acquisitions
+trade,  gross national product
+aluminum
+earnings
+earnings
+grain, rice
+acquisitions
+rice,  cotton
+dollar,  money foreign exchange
+money supply,  interest rates
+earnings
+earnings
+shipping
+shipping
+trade
+trade
+earnings
+acquisitions
+wheat, grain
+acquisitions
+aluminum
+gross national product
+trade
+earnings
+livestock
+earnings
+earnings
+earnings
+sugar
+earnings
+earnings
+interest rates
+earnings
+vegetable oil
+earnings
+grain
+consumer price index
+interest rates,  money foreign exchange
+earnings
+acquisitions
+acquisitions
+earnings
+earnings
+earnings
+earnings
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+interest rates
+grain,  wheat
+acquisitions
+earnings
+sorghum,  wheat, grain
+earnings
+earnings
+earnings
+earnings
+earnings
+jobs
+earnings
+sugar
+income
+earnings
+lumber
+earnings
+crude oil,  shipping
+livestock
+grain,  wheat
+dollar,  money foreign exchange
+rapeseed,  oilseed
+acquisitions
+earnings
+earnings
+money foreign exchange
+earnings
+earnings
+earnings
+acquisitions
+cocoa
+crude oil
+earnings
+acquisitions
+interest rates
+earnings
+dollar,  money foreign exchange
+crude oil
+acquisitions
+acquisitions
+earnings
+acquisitions
+earnings
+earnings
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+wholesale price index
+oilseed, corn, grain,  wheat
+earnings
+acquisitions
+acquisitions
+acquisitions
+shipping
+silver, gold
+crude oil
+earnings
+acquisitions
+cocoa
+acquisitions
+acquisitions
+earnings
+earnings
+earnings
+earnings
+cottonseed oil, corn, grain,  oilseed,  soybean oil,  soybean
+money foreign exchange
+acquisitions
+money foreign exchange,  interest rates
+earnings
+earnings
+earnings
+earnings
+acquisitions
+earnings
+fuel,  natural gas
+acquisitions
+earnings
+acquisitions
+earnings
+potato
+earnings
+shipping
+aluminum
+earnings
+gross national product
+acquisitions
+acquisitions
+reserves
+consumer price index,  interest rates
+industrial production index
+acquisitions
+earnings
+sugar
+acquisitions
+earnings
+iron and steel
+acquisitions
+acquisitions
+crude oil
+earnings
+acquisitions
+natural gas,  crude oil
+acquisitions
+acquisitions
+crude oil,  shipping
+copper
+acquisitions
+acquisitions
+interest rates
+crude oil
+acquisitions
+rice, grain
+earnings
+earnings
+coffee
+earnings
+crude oil
+earnings
+natural gas
+interest rates
+acquisitions
+cocoa
+trade
+crude oil
+groundnut, trade
+earnings
+earnings
+earnings
+money foreign exchange,  interest rates
+earnings
+lumber
+sunflower seed, corn,  oilseed, grain
+balance of payments
+gross national product
+earnings
+crude oil
+earnings
+earnings
+interest rates,  money foreign exchange
+acquisitions
+earnings
+acquisitions
+earnings
+trade
+money foreign exchange
+earnings
+earnings
+acquisitions
+earnings
+money foreign exchange
+money foreign exchange
+earnings
+earnings
+acquisitions
+earnings
+grain
+earnings
+earnings
+earnings
+oilseed,  soybean,  vegetable oil
+crude oil,  shipping
+money foreign exchange
+industrial production index
+trade
+money foreign exchange,  interest rates
+acquisitions
+iron and steel
+earnings
+earnings
+sugar
+acquisitions
+acquisitions
+earnings
+reserves,  money foreign exchange
+earnings
+trade
+earnings
+rice, corn, grain
+sorghum
+shipping
+earnings
+earnings
+earnings
+earnings
+acquisitions
+earnings
+earnings
+interest rates
+gold
+grain, corn,  vegetable oil
+acquisitions
+shipping
+earnings
+earnings
+acquisitions
+crude oil
+rapeseed,  oilseed
+orange
+installment debt
+cotton
+earnings
+earnings
+acquisitions
+acquisitions
+earnings
+interest rates
+earnings
+grain, corn,  vegetable oil
+earnings
+shipping,  oilseed, grain
+acquisitions
+acquisitions
+acquisitions
+earnings
+crude oil,  shipping
+crude oil
+earnings
+acquisitions
+earnings
+earnings
+acquisitions
+shipping
+interest rates
+crude oil
+earnings
+earnings
+acquisitions
+earnings
+acquisitions
+grain, corn
+earnings
+earnings
+wheat, grain
+acquisitions
+acquisitions
+crude oil
+earnings
+earnings
+earnings
+gold
+earnings
+acquisitions,  copper
+crude oil,  shipping
+interest rates
+earnings
+earnings
+crude oil
+earnings
+earnings
+earnings
+earnings
+acquisitions
+earnings
+acquisitions
+earnings
+crude oil
+earnings
+earnings
+money foreign exchange
+dollar,  money foreign exchange
+acquisitions
+acquisitions
+earnings
+acquisitions
+earnings
+acquisitions
+earnings
+acquisitions
+acquisitions
+crude oil
+earnings
+trade
+earnings
+earnings
+natural gas,  balance of payments
+dollar,  money foreign exchange
+acquisitions
+earnings
+earnings
+earnings
+crude oil
+earnings
+interest rates
+earnings
+earnings
+shipping
+dollar,  money foreign exchange
+interest rates
+acquisitions
+gross national product
+acquisitions
+cocoa
+aluminum
+money supply
+iron and steel
+acquisitions
+earnings
+acquisitions
+earnings
+earnings
+crude oil,  shipping
+earnings
+earnings
+earnings
+earnings
+crude oil,  shipping
+earnings
+earnings
+earnings
+consumer price index
+acquisitions
+earnings
+acquisitions
+trade,  reserves
+earnings
+acquisitions
+acquisitions
+gold
+acquisitions
+acquisitions
+crude oil
+earnings
+crude oil
+acquisitions
+wheat, grain
+earnings
+earnings
+earnings
+petrochemicals
+earnings
+acquisitions
+earnings
+rubber
+acquisitions
+earnings
+earnings
+earnings
+acquisitions
+acquisitions
+natural gas
+interest rates,  money foreign exchange
+grain,  barley
+earnings
+interest rates
+acquisitions
+money supply
+earnings
+acquisitions
+earnings
+acquisitions
+interest rates
+earnings
+rubber
+earnings
+earnings
+earnings
+money foreign exchange
+livestock
+trade,  gross national product
+industrial production index
+earnings
+earnings
+trade
+gross national product
+earnings
+earnings
+interest rates
+earnings
+reserves
+earnings
+acquisitions
+coffee
+interest rates,  money foreign exchange
+earnings
+acquisitions
+acquisitions
+earnings
+coffee
+earnings
+money supply
+earnings
+coffee
+acquisitions
+crude oil
+oilseed, corn, grain,  soybean,  wheat
+crude oil
+money supply
+carcass,  livestock
+acquisitions
+earnings
+grain,  wheat
+acquisitions
+earnings
+acquisitions
+consumer price index,  gross national product, jobs
+aluminum
+money supply
+acquisitions
+earnings
+aluminum
+earnings
+acquisitions
+sugar
+sugar
+money foreign exchange
+earnings
+earnings
+earnings
+grain,  wheat
+earnings
+crude oil,  interest rates
+acquisitions
+lead,  zinc
+money foreign exchange
+crude oil
+earnings
+earnings
+earnings
+earnings
+copper
+earnings
+earnings
+earnings
+earnings
+earnings
+crude oil,  shipping
+acquisitions
+acquisitions
+rubber
+trade
+acquisitions
+acquisitions
+cocoa
+acquisitions
+acquisitions,  crude oil
+earnings
+earnings
+acquisitions
+acquisitions
+soybean oil,  vegetable oil
+earnings
+earnings
+earnings
+acquisitions
+fuel,  natural gas,  crude oil
+acquisitions
+trade
+earnings
+crude oil
+acquisitions
+earnings
+acquisitions
+earnings
+tin
+acquisitions
+vegetable oil
+acquisitions
+money foreign exchange
+acquisitions
+crude oil
+money foreign exchange,  interest rates
+acquisitions
+money foreign exchange,  interest rates
+acquisitions
+acquisitions
+money foreign exchange
+industrial production index
+earnings
+earnings
+aluminum
+earnings
+japanese yen,  money foreign exchange, dollar
+crude oil,  shipping
+earnings
+acquisitions
+trade,  balance of payments
+crude oil
+trade,  money foreign exchange
+crude oil
+earnings
+acquisitions
+crude oil
+balance of payments
+acquisitions,  crude oil,  natural gas
+livestock, hog
+earnings
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+earnings
+livestock
+acquisitions
+acquisitions
+earnings
+earnings
+acquisitions
+gross national product,  interest rates,  money foreign exchange
+earnings
+earnings
+earnings
+interest rates
+acquisitions
+reserves,  money foreign exchange
+earnings
+acquisitions
+acquisitions
+earnings
+interest rates
+acquisitions
+oilseed, corn,  soybean, grain,  wheat
+earnings
+carcass,  livestock
+orange
+earnings
+earnings
+acquisitions
+earnings
+earnings
+earnings
+earnings
+aluminum
+naphtha
+earnings
+acquisitions
+earnings
+earnings
+interest rates,  money foreign exchange
+vegetable oil
+orange, grain
+earnings
+acquisitions
+earnings
+money foreign exchange
+grain
+natural gas
+rice, trade,  cotton
+trade
+earnings
+acquisitions
+carcass,  oilseed,  livestock, trade
+earnings
+iron and steel
+acquisitions
+acquisitions
+shipping,  crude oil
+earnings
+acquisitions
+earnings
+crude oil
+grain
+earnings
+acquisitions
+coffee
+earnings
+earnings
+earnings
+lead
+jobs
+earnings
+money foreign exchange,  interest rates
+acquisitions
+earnings
+cocoa
+crude oil,  shipping
+earnings
+earnings
+acquisitions
+acquisitions
+grain,  wheat
+acquisitions
+acquisitions
+shipping
+dollar,  money foreign exchange
+grain, corn
+acquisitions,  copper
+earnings
+interest rates
+trade,  natural gas,  crude oil
+earnings
+earnings
+earnings
+natural gas
+acquisitions
+acquisitions
+earnings
+earnings
+interest rates,  money foreign exchange
+rice, grain,  carcass, orange,  livestock
+carcass,  livestock
+gross national product
+acquisitions
+earnings
+earnings
+trade
+crude oil
+money supply
+earnings
+interest rates
+interest rates,  money foreign exchange
+gross national product
+earnings
+earnings
+earnings
+earnings
+shipping,  sugar
+consumer price index
+trade
+reserves
+earnings
+earnings
+earnings
+earnings
+crude oil
+trade,  balance of payments
+earnings
+earnings
+interest rates
+earnings
+acquisitions
+rapeseed,  oilseed
+earnings
+earnings
+earnings
+corn,  wheat, grain
+earnings
+dollar,  money foreign exchange
+livestock
+earnings
+natural gas
+acquisitions
+money foreign exchange,  interest rates
+earnings
+earnings
+crude oil
+earnings
+earnings
+earnings
+acquisitions
+acquisitions
+acquisitions
+earnings
+oilseed, corn, grain,  soybean,  wheat
+money foreign exchange,  interest rates
+acquisitions
+acquisitions
+earnings
+crude oil
+acquisitions
+earnings
+acquisitions
+shipping, grain
+earnings
+crude oil,  propane
+interest rates
+acquisitions
+aluminum
+earnings
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+rubber
+cocoa
+shipping
+earnings
+crude oil
+earnings
+money supply,  interest rates
+earnings
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+money foreign exchange
+acquisitions
+oilseed,  soybean
+acquisitions
+retail
+japanese yen,  interest rates,  money foreign exchange
+earnings
+dollar,  money foreign exchange
+crude oil
+acquisitions
+earnings
+acquisitions
+grain,  barley
+earnings
+money foreign exchange,  interest rates
+earnings
+acquisitions
+acquisitions
+acquisitions
+rapeseed,  soybean meal,  meal feed
+earnings
+earnings
+acquisitions
+crude oil
+earnings
+gross national product
+earnings
+acquisitions
+earnings
+gold
+earnings
+earnings
+trade
+interest rates
+earnings
+crude oil
+earnings
+oilseed,  cotton,  vegetable oil
+acquisitions
+acquisitions
+acquisitions
+earnings
+earnings
+earnings
+acquisitions
+acquisitions
+earnings
+money foreign exchange
+money foreign exchange,  interest rates
+crude oil,  shipping
+acquisitions
+acquisitions,  cocoa
+acquisitions
+earnings
+acquisitions
+earnings
+earnings
+earnings
+earnings
+coffee
+crude oil
+gold
+acquisitions
+trade
+reserves
+crude oil,  shipping
+earnings
+earnings
+earnings
+iron and steel
+interest rates
+coffee
+earnings
+crude oil
+earnings
+shipping
+earnings
+acquisitions
+earnings
+acquisitions
+earnings
+income
+strategic metals
+dollar,  money foreign exchange
+crude oil
+crude oil
+money foreign exchange,  interest rates
+earnings
+gold
+acquisitions
+acquisitions
+acquisitions
+dollar,  money foreign exchange
+acquisitions
+earnings
+interest rates
+acquisitions
+interest rates,  money foreign exchange
+lead
+natural gas,  crude oil
+earnings
+earnings
+earnings
+jobs
+grain, trade
+acquisitions
+earnings
+earnings
+earnings
+money foreign exchange
+earnings
+earnings
+lead
+earnings
+earnings
+earnings
+acquisitions
+earnings
+earnings
+earnings
+earnings
+rubber
+lead,  zinc
+earnings
+earnings
+acquisitions
+acquisitions
+earnings
+earnings
+earnings
+earnings
+corn, grain
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+grain,  wheat
+gross national product
+shipping, grain
+jobs
+acquisitions
+earnings
+grain,  wheat
+earnings
+acquisitions
+earnings
+natural gas
+earnings
+acquisitions
+money foreign exchange
+lumber
+natural gas
+acquisitions
+interest rates
+money foreign exchange
+shipping
+acquisitions
+earnings
+crude oil
+earnings
+trade
+acquisitions
+rapeseed oil,  sunflower seed, grain,  soybean oil,  wheat,  oilseed
+interest rates
+interest rates
+acquisitions
+acquisitions
+acquisitions
+gross national product
+acquisitions
+trade,  rubber
+interest rates
+earnings
+earnings
+crude oil
+industrial production index
+reserves
+earnings
+earnings
+acquisitions
+dollar,  money foreign exchange
+money foreign exchange
+acquisitions
+earnings
+acquisitions
+earnings
+earnings
+gross national product
+crude oil,  shipping
+earnings
+oilseed,  soybean
+earnings
+acquisitions
+acquisitions
+earnings
+earnings
+acquisitions
+earnings
+earnings
+trade
+earnings
+crude oil,  natural gas
+acquisitions
+earnings
+earnings
+interest rates
+earnings
+earnings
+earnings
+earnings
+earnings
+acquisitions
+earnings
+earnings
+earnings
+crude oil
+earnings
+interest rates
+lead,  zinc
+earnings
+earnings
+acquisitions
+dollar,  money foreign exchange
+earnings
+acquisitions
+coffee
+acquisitions
+earnings
+acquisitions
+acquisitions
+earnings
+oilseed,  soybean
+sugar
+crude oil
+earnings
+crude oil,  shipping
+grain, corn
+earnings
+jobs
+coffee,  cocoa
+wholesale price index
+cocoa
+earnings
+acquisitions
+earnings
+consumer price index
+money supply
+trade
+earnings
+iron and steel
+sorghum, corn, grain,  meal feed,  oilseed,  soybean
+grain,  wheat
+acquisitions
+acquisitions
+acquisitions
+earnings
+earnings
+earnings
+acquisitions
+earnings
+livestock, corn, grain,  wheat,  soybean
+earnings
+japanese yen,  gross national product, trade
+earnings
+money foreign exchange
+wheat, grain
+earnings
+acquisitions
+crude oil
+petrochemicals
+earnings
+interest rates,  money foreign exchange
+dollar,  money foreign exchange
+trade
+natural gas
+earnings
+earnings
+sorghum, corn, grain,  meal feed,  oilseed,  vegetable oil,  cotton,  wheat,  soybean
+trade,  money foreign exchange
+earnings
+trade
+acquisitions
+trade
+acquisitions
+money supply
+natural gas
+acquisitions
+earnings
+income
+earnings
+vegetable oil
+money foreign exchange
+crude oil,  shipping
+gross national product
+acquisitions
+oilseed,  soybean
+acquisitions,  copper
+trade
+earnings
+lead, silver,  zinc, gold
+crude oil
+corn,  wheat, grain
+livestock, hog
+acquisitions
+crude oil
+crude oil
+earnings
+acquisitions
+acquisitions
+soybean meal, corn, grain,  oilseed,  soybean
+acquisitions
+oilseed, corn, grain,  soybean,  wheat
+earnings
+acquisitions
+earnings
+earnings
+dollar,  money foreign exchange
+earnings
+grain, corn, grain
+earnings
+vegetable oil
+acquisitions
+acquisitions
+earnings
+acquisitions
+acquisitions
+crude oil
+petrochemicals
+crude oil
+crude oil
+acquisitions
+earnings
+earnings
+money supply
+lead,  zinc
+earnings
+gold
+fuel
+acquisitions
+money foreign exchange
+trade
+acquisitions
+acquisitions
+earnings
+earnings
+sugar
+acquisitions
+acquisitions
+earnings
+acquisitions
+earnings
+trade,  interest rates,  money foreign exchange
+carcass,  livestock
+tin
+acquisitions
+earnings
+earnings
+acquisitions
+cocoa
+earnings
+trade,  money foreign exchange, dollar
+earnings
+acquisitions
+earnings
+earnings
+crude oil
+acquisitions
+money supply
+money foreign exchange,  interest rates
+earnings
+vegetable oil
+money foreign exchange,  interest rates
+acquisitions
+trade
+acquisitions
+tea
+earnings
+earnings
+money foreign exchange
+acquisitions
+earnings
+acquisitions
+earnings
+earnings
+trade,  balance of payments
+earnings
+money supply,  vegetable oil
+acquisitions
+earnings
+money foreign exchange
+carcass, grain,  livestock
+earnings
+earnings
+acquisitions
+grain, corn
+grain,  wheat
+acquisitions
+dollar,  money foreign exchange
+acquisitions
+acquisitions
+earnings
+crude oil,  shipping
+money foreign exchange
+trade
+money foreign exchange,  interest rates
+money foreign exchange
+acquisitions
+zinc
+rice, grain,  sugar
+earnings
+earnings
+acquisitions
+aluminum
+acquisitions
+acquisitions
+earnings
+acquisitions
+shipping
+earnings
+acquisitions
+acquisitions
+earnings
+earnings
+earnings
+earnings
+earnings
+earnings
+crude oil
+acquisitions
+earnings
+earnings
+acquisitions
+gold
+trade,  gross national product
+acquisitions
+earnings
+acquisitions
+acquisitions
+acquisitions
+trade
+dollar,  money foreign exchange
+dollar,  money foreign exchange
+earnings
+earnings
+earnings
+dollar,  money foreign exchange
+acquisitions
+earnings
+money foreign exchange
+grain, corn
+iron and steel
+consumer price index
+cocoa
+sugar
+money supply
+consumer price index, trade,  money supply, dollar,  money foreign exchange
+earnings
+earnings
+japanese yen,  interest rates
+copper
+acquisitions
+wheat,  vegetable oil, grain
+hog,  livestock
+soybean oil, corn, grain,  oilseed,  soybean
+cocoa
+money foreign exchange,  interest rates
+acquisitions
+money foreign exchange,  interest rates
+reserves
+acquisitions
+earnings
+earnings
+trade,  balance of payments
+acquisitions
+acquisitions, trade
+livestock
+acquisitions
+acquisitions
+earnings
+trade
+earnings
+coffee
+dollar,  money foreign exchange
+natural gas
+earnings
+dollar,  money foreign exchange
+earnings
+crude oil
+acquisitions
+tin
+acquisitions
+earnings
+balance of payments
+acquisitions
+interest rates
+interest rates
+earnings
+earnings
+acquisitions
+acquisitions
+acquisitions
+aluminum
+earnings
+earnings
+acquisitions
+acquisitions
+earnings
+acquisitions
+earnings
+consumer price index,  money foreign exchange
+rice, grain
+money foreign exchange
+grain, corn
+lei
+earnings
+acquisitions
+earnings
+money foreign exchange
+money foreign exchange,  interest rates
+acquisitions
+acquisitions
+acquisitions
+money foreign exchange
+acquisitions
+earnings
+earnings
+natural gas,  crude oil
+earnings
+zinc
+earnings
+money foreign exchange
+acquisitions
+consumer price index
+acquisitions
+earnings
+earnings
+earnings
+money supply
+acquisitions
+earnings
+earnings
+earnings
+acquisitions
+acquisitions
+acquisitions
+trade,  balance of payments
+acquisitions
+earnings
+crude oil
+earnings
+earnings
+trade,  money foreign exchange
+grain,  wheat
+earnings
+earnings
+acquisitions
+interest rates
+earnings
+trade,  balance of payments
+earnings
+money foreign exchange
+wholesale price index
+acquisitions
+rice, grain,  sugar
+crude oil
+dollar,  money foreign exchange
+acquisitions
+money foreign exchange
+earnings
+trade
+sugar
+money foreign exchange
+earnings
+lei
+earnings
+zinc
+earnings
+acquisitions
+earnings
+tin
+earnings
+earnings
+earnings
+acquisitions
+crude oil
+earnings
+crude oil
+corn,  barley, grain
+cocoa
+earnings
+earnings
+earnings
+grain, corn
+shipping
+acquisitions
+money foreign exchange
+earnings
+interest rates
+earnings
+earnings
+earnings
+acquisitions
+gross national product,  interest rates
+acquisitions
+acquisitions
+acquisitions
+earnings
+trade,  gross national product
+wholesale price index
+acquisitions
+acquisitions
+money foreign exchange
+earnings
+earnings
+acquisitions
+money foreign exchange
+earnings
+earnings
+acquisitions
+earnings
+trade
+earnings
+earnings
+acquisitions
+crude oil
+earnings
+acquisitions
+earnings
+cotton
+crude oil
+earnings
+grain, corn
+earnings
+acquisitions
+earnings
+dollar,  money foreign exchange
+copper
+acquisitions
+earnings
+earnings
+acquisitions
+earnings
+corn, grain, trade
+earnings
+acquisitions
+corn,  meal feed, grain,  sugar,  wheat
+earnings
+earnings
+earnings
+earnings
+acquisitions
+earnings
+earnings
+acquisitions
+earnings
+trade
+acquisitions
+trade
+fuel
+earnings
+earnings
+wheat, grain
+earnings
+acquisitions
+earnings
+consumer price index
+earnings
+soybean meal, corn, grain,  meal feed
+acquisitions
+earnings
+interest rates
+acquisitions
+earnings
+acquisitions
+carcass,  livestock
+earnings
+earnings
+acquisitions
+grain,  wheat
+earnings
+crude oil
+earnings
+acquisitions
+lead,  natural gas
+housing
+crude oil
+rice, grain
+interest rates
+gross national product,  balance of payments
+earnings
+earnings
+trade
+balance of payments
+carcass, hog
+acquisitions
+acquisitions
+money foreign exchange
+money supply
+trade
+lead
+acquisitions
+earnings
+acquisitions
+earnings
+coffee,  cocoa
+crude oil
+acquisitions
+earnings
+acquisitions
+earnings
+earnings
+shipping
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+crude oil
+earnings
+trade,  money foreign exchange
+naphtha,  petrochemicals
+shipping, grain
+earnings
+earnings
+crude oil
+earnings
+earnings
+retail
+acquisitions
+earnings
+earnings
+earnings
+earnings
+interest rates
+balance of payments
+earnings
+earnings
+trade
+shipping, grain
+orange
+rubber
+wheat, grain
+earnings
+acquisitions
+crude oil
+gross national product
+acquisitions
+earnings
+trade
+earnings
+coffee
+acquisitions
+earnings
+earnings
+earnings
+acquisitions
+cotton
+earnings
+earnings
+acquisitions
+earnings
+trade
+earnings
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+acquisitions
+natural gas,  crude oil
+earnings
+crude oil
+acquisitions
+earnings
+acquisitions
+iron and steel
+money foreign exchange
+earnings
+earnings
+earnings
+earnings
+earnings
+coconut oil,  palm oil,  soybean,  vegetable oil
+trade
+acquisitions
+acquisitions
+dollar,  money foreign exchange
+earnings
+earnings
+earnings
+sugar
+acquisitions
+acquisitions
+earnings
+acquisitions
+acquisitions
+crude oil,  shipping
+acquisitions
+natural gas
+acquisitions
+acquisitions
+earnings
+earnings
+natural gas
+acquisitions
+natural gas,  earnings
+earnings
+acquisitions
+grain, corn
+acquisitions
+acquisitions
+earnings
+sorghum, corn, grain,  meal feed,  oilseed,  soybean
+grain,  barley
+earnings
+gross national product
+shipping, lead
+gross national product,  interest rates
+interest rates
+earnings
+earnings
+money foreign exchange
+acquisitions
+earnings
+earnings
+crude oil
+earnings
+crude oil
+money supply
+corn, grain
+acquisitions
+gold
+acquisitions
+money foreign exchange
+acquisitions
+money foreign exchange
+money foreign exchange

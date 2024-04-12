@@ -1,0 +1,14 @@
+datasets==2.17.1
+fairseq==0.12.2
+filelock==3.13.4
+GitPython==3.1.42
+GitPython==3.1.43
+nltk==3.8.1
+numpy==1.26.4
+packaging==24.0
+rouge_score==0.1.2
+sacrebleu==2.4.1
+tabulate==0.9.0
+torch==2.0.1+cu117
+tqdm==4.66.2
+transformers==4.37.1
