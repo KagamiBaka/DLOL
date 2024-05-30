@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 ### Training and Evaluation
-Traing
+Training
 ```text
 bash run_reuters.sh
 ```
